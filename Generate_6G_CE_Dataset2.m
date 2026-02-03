@@ -49,7 +49,7 @@ if ~exist(dataFolder,"dir"); mkdir(dataFolder); end
 cfg = struct();
 
 % ---- Dataset size / reproducibility ----
-cfg.numSamples   = 5;      % Reconfigurable. 10 for quick test, 10k for release
+cfg.numSamples   = 100;      % Reconfigurable. 100 for quick test, 10k for release
 cfg.randomSeed   = 42;
 cfg.showProgress = true;
 
@@ -969,4 +969,5 @@ function localWriteH5StringScalar(h5Path, dsetName, s)
     h5create(h5Path, dsetName, size(u), "Datatype","uint8");
     h5write(h5Path, dsetName, u);
 end
+
 
