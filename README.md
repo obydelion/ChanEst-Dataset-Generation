@@ -11,4 +11,4 @@ A block diagram representing the ChanEst dataset generation model is given in Fi
 Table 1 summarizes the default configuration used in this release and highlights parameters that are directly reconfigurable in the generator. When configuration settings change (e.g., antenna order or grid size), derived quantities such as packed channels C=2N_Tx N_Rx and tensor dimensions update automatically.
 
 **Table 1.** ChanEst dataset configuration and reconfigurable parameters
-<img width="558" height="546" alt="image" src="https://github.com/user-attachments/assets/234c4a02-c814-42e4-ba71-19b558a59649" />
+<img width="628" height="600" alt="image" src="https://github.com/user-attachments/assets/234c4a02-c814-42e4-ba71-19b558a59649" />
