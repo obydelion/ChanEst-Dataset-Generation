@@ -34,3 +34,6 @@ Table 1. ChanEst dataset configuration and reconfigurable parameters
 | Input/Output | Input (Ĥ_in)                             | DM-RS LS/CDM (if MIMO) + 2D interpolation                |
 | Input/Output | Label (H_gt)                             | Perfect OFDM-response                                     |
 | Input/Output | Tensor size                              | 612 × 14 × C × N                                          |
+
+
+<img width="697" height="682" alt="image" src="https://github.com/user-attachments/assets/234c4a02-c814-42e4-ba71-19b558a59649" />
