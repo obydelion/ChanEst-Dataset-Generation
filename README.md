@@ -1,5 +1,5 @@
 # ChanEst Dataset Generation Framework
-A Reproducible and Reconfigurable Dataset Generation Framework for Deep Learning–Based 6G Channel Estimation.
+## A Reproducible and Reconfigurable Dataset Generation Framework for Deep Learning–Based 6G Channel Estimation.
 
 ## 📄 Related Publication
 
