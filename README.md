@@ -7,8 +7,13 @@ This repository is associated with our published paper:
 
 **ChanEst Dataset: A Reconfigurable Framework and Benchmark for Deep Learning–Based 6G Channel Estimation**  
 Obinna Okoyeigbo et al.
-
 🔗 https://www.mdpi.com/2673-4001/7/3/65
+
+
+## 📊 Dataset
+The generated dataset used in the paper is publicly available here:
+🔗 https://data.mendeley.com/datasets/8w3zjj8hzc/1
+
 
 ChanEst is a reproducible and reconfigurable dataset for deep learning–based channel estimation generated using standard-compliant 3GPP procedures in MATLAB (6G Exploration Library). Each sample is created by inserting PDSCH DM-RS pilots into an OFDM resource grid, transmitting through a randomized 3GPP TDL channel realization, adding AWGN at a randomized SNR, and applying a receiver-aligned pipeline that performs pilot extraction, LS estimation on DM-RS, and 2-D time–frequency interpolation to form a dense-grid learning input. The corresponding supervision label is the perfect OFDM-grid channel response obtained from the channel model for the same realization. The dataset is provided as real-valued tensors with stacked real/imaginary parts and includes per-sample metadata logs (SNR, delay spread, Doppler, speed, TDL profile, and (for MIMO) correlation settings) and configuration objects to support stratified evaluation and reproducible benchmarking.
 A block diagram representing the ChanEst dataset generation model is given in Figure 1.
