@@ -4,7 +4,8 @@
 ## 📄 Related Publication
 
 This repository is associated with our published paper. If you use our dataset, please cite us:
-"O. Okoyeigbo, X. Deng, R. Sheriff, D. Jeremiah, and O. Shobayo, “ChanEst Dataset: A Reconfigurable Framework and Benchmark for Deep Learning–Based 6G Channel Estimation,” Telecom 2026, Vol. 7, vol. 7, no. 3, May 2026, doi: 10.3390/TELECOM7030065."
+
+**"O. Okoyeigbo, X. Deng, R. Sheriff, D. Jeremiah, and O. Shobayo, “ChanEst Dataset: A Reconfigurable Framework and Benchmark for Deep Learning–Based 6G Channel Estimation,” Telecom 2026, Vol. 7, vol. 7, no. 3, May 2026, doi: 10.3390/TELECOM7030065."**
 
 **ChanEst Dataset: A Reconfigurable Framework and Benchmark for Deep Learning–Based 6G Channel Estimation**  
 Obinna Okoyeigbo et al.
