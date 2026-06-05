@@ -3,7 +3,7 @@ A Reproducible and Reconfigurable Dataset Generation Framework for Deep Learning
 
 ## 📄 Related Publication
 
-This repository is associated with our published paper:
+This repository is associated with our published paper. If you use our dataset, please cite us:
 
 **ChanEst Dataset: A Reconfigurable Framework and Benchmark for Deep Learning–Based 6G Channel Estimation**  
 Obinna Okoyeigbo et al.
