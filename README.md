@@ -11,7 +11,7 @@ Obinna Okoyeigbo et al.
 
 
 ## 📊 Dataset
-The generated dataset used in the paper is publicly available here:
+The ChanEst dataset is publicly available here:
 🔗 https://data.mendeley.com/datasets/8w3zjj8hzc/1
 
 
